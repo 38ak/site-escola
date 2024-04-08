@@ -1,17 +1,13 @@
-header{background-color: rgb(223, 9, 9);
-    color: darkblue;
-}
-.cabeçalho-imagem{
-    width: 20%;
-}
+
+
 *{
     margin: 0;
     padding: 0;
 }
 
 .cabecalho{
-    background-color: #383D58;
-    color: #FFFFFF;
+    background-color: #ac1d0a;
+    color: #e21061;
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
